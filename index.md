@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Ayush's GitHub Pages
+
+##Hi, this is Ayush and this is me doing my HW #1 in CS193. 
+
+> One small step for man, one giant leap for mankind. ~ Neil Armstrong (Purdue Alum btw...)
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
