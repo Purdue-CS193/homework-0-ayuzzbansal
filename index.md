@@ -1,6 +1,6 @@
 ## Welcome to Ayush's GitHub Pages
 
-##Hi, this is Ayush and this is me doing my HW #1 in CS193. 
+## Hi, this is Ayush and this is me doing my HW #1 in CS193. 
 
 > One small step for man, one giant leap for mankind. ~ Neil Armstrong (Purdue Alum btw...)
 
