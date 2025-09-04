@@ -1,5 +1,17 @@
 ## Welcome to GitHub Pages
 
+## Hi, this is Ayush and I love CS193
+
+### Wanna know why?
+
+- I learn stuff that I'm genuinly going to use in interships + jobs + etc...
+- I love hands on. Playing around with Git? my thing `git commit -m "boiler up!`. The class is, hence, fun.
+- INTRUCTORS. The fact that they are students (mostly sophomores), gives me someone I can genuinly look up to even **short term**
+- It's one credit, not a lot work and even if there is? I am up for it.
+
+> Steph curry is the goat.
+
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
